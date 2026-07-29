@@ -1,41 +1,29 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        vector<int> leftCount;
-        int preCandy = 1;
-        int n=ratings.size();
-        leftCount.push_back(1);
-        for(int i=1; i<n; i++) {
-            if(ratings[i]>ratings[i-1]) {
-                int candyGiven = preCandy + 1;
-                leftCount.push_back(candyGiven);
-                preCandy = candyGiven;
+        int n = ratings.size();
+        int candy = n;
+        int i=1;
+        while(i<n) {
+            if(ratings[i]==ratings[i-1]) {
+                i++;
+                continue;
             }
-            else {
-                leftCount.push_back(1);
-                preCandy = 1;
+            int increasing = 0;
+            while(i<n && ratings[i] > ratings[i-1]) {
+                increasing++;
+                candy += increasing;
+                i++;
             }
-        }
-        vector<int> rightCount;
-        preCandy = 1;
-        rightCount.push_back(1);
-        for(int i=n-2; i>=0; i--) {
-            if(ratings[i]>ratings[i+1]) {
-                int candy = preCandy + 1;
-                rightCount.push_back(candy);
-                preCandy = candy;
+            int decreasing = 0;
+            while(i<n && ratings[i] < ratings[i-1]) {
+                decreasing++;
+                candy += decreasing;
+                i++;
             }
-            else {
-                rightCount.push_back(1);
-                preCandy = 1;
-            }
-        }
-        reverse(rightCount.begin(), rightCount.end());
-        int count = 0;
-        for(int i=0; i<n; i++) {
-            count += max(leftCount[i], rightCount[i]); 
+            candy -= min(increasing, decreasing);
         }
 
-        return count;
+        return candy;
     }
 };
