@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0135-candy) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -13,6 +14,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
