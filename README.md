@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -43,6 +45,7 @@
 | ------- |
 | [0135-candy](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -91,6 +94,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Memoization
 |  |
 | ------- |
@@ -100,4 +104,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
