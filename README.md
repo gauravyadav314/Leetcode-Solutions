@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0135-candy) |
@@ -112,4 +113,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
