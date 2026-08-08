@@ -19,19 +19,34 @@ public:
     // }
 
 // TABULATION 
+    // int rob(vector<int>& nums) {
+    //     int n = nums.size();
+    //     if(n==0) return 0;
+    //     if(n==1) return nums[0];
+    //     vector<int> dp(n, 0);
+    //     dp[0] = nums[0];
+    //     dp[1] = max(nums[1], nums[0]);
+    //     for(int i=2; i<n; i++) {
+    //         int take = nums[i] + dp[i-2];
+    //         int notTake = dp[i-1];
+    //         dp[i] = max(take, notTake);
+    //     }
+    //     return dp[n-1];
+    // }
+
+// SPACEOPTIMIZATION
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if(n==0) return 0;
-        if(n==1) return nums[0];
-        vector<int> dp(n, 0);
-        dp[0] = nums[0];
-        dp[1] = max(nums[1], nums[0]);
-        for(int i=2; i<n; i++) {
-            int take = nums[i] + dp[i-2];
-            int notTake = dp[i-1];
-            dp[i] = max(take, notTake);
+        int prev2 = 0;
+        int prev = nums[0];
+        for(int i=1; i<n; i++) {
+            int take = nums[i]+prev2;
+            int notTake = prev;
+            int ans = max(take, notTake);
+            prev2 = prev;
+            prev = ans;
         }
-        return dp[n-1];
+        return prev;
     }
 
 };
