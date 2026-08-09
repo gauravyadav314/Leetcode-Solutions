@@ -8,7 +8,7 @@ public:
             if(board[i][j] == 'Q') return false;
         return true;
     }
-    void backTrack(int row, int n, vector<string>& board, vector<vector<string>>& ans) {
+    void helper(int row, int n, vector<string>& board, vector<vector<string>>& ans) {
         if(row == n) {
             ans.push_back(board);
             return;
@@ -16,7 +16,7 @@ public:
         for(int col=0; col<n; col++) {
             if(isCorrect(board, row, col, n)) {
                 board[row][col] = 'Q';
-                backTrack(row+1, n, board, ans);
+                helper(row+1, n, board, ans);
                 board[row][col] = '.';
             }
         }
@@ -24,7 +24,7 @@ public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
         vector<string> board(n, string(n, '.'));
-        backTrack(0, n, board, ans);
+        helper(0, n, board, ans);
         return ans;
     }
 };
