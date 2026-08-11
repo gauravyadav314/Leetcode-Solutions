@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 | [0509-fibonacci-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -88,6 +89,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -126,4 +128,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
