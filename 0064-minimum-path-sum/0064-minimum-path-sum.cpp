@@ -19,21 +19,42 @@ public:
     // }
 
     // tabulation 
+    // int minPathSum(vector<vector<int>>& grid) {
+    //     int row = grid.size();
+    //     int col = grid[0].size();
+    //     vector<vector<int>> dp(row, vector<int>(col, 0));
+    //     for(int i=0; i<row; i++) {
+    //         for(int j=0; j<col; j++) {
+    //             if(i==0 && j==0) dp[i][j]=grid[i][j];
+    //             else {
+    //                 int left=INT_MAX, up=INT_MAX;
+    //                 if(i>0) up = dp[i-1][j];
+    //                 if(j>0) left = dp[i][j-1];
+    //                 dp[i][j] = grid[i][j] + min(left, up);
+    //             }
+    //         }
+    //     }
+    //     return dp[row-1][col-1];
+    // }
+
+    // spaceOptimization
     int minPathSum(vector<vector<int>>& grid) {
         int row = grid.size();
         int col = grid[0].size();
-        vector<vector<int>> dp(row, vector<int>(col, 0));
+        vector<int> dp(col, 0);
         for(int i=0; i<row; i++) {
+            vector<int> temp(col, 0);
             for(int j=0; j<col; j++) {
-                if(i==0 && j==0) dp[i][j]=grid[i][j];
+                if(i==0 && j==0) temp[j] = grid[i][j];
                 else {
                     int left=INT_MAX, up=INT_MAX;
-                    if(i>0) up = dp[i-1][j];
-                    if(j>0) left = dp[i][j-1];
-                    dp[i][j] = grid[i][j] + min(left, up);
+                    if(i > 0) up = dp[j];
+                    if(j > 0) left = temp[j-1];
+                    temp[j] = grid[i][j] + min(up, left);
                 }
             }
+            dp = temp;
         }
-        return dp[row-1][col-1];
+        return dp[col-1];
     }
 };
