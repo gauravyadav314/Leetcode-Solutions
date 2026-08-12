@@ -16,22 +16,43 @@ public:
     // }
 
     // tabulation
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
+    // int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
+    //     int row = obstacleGrid.size();
+    //     int col = obstacleGrid[0].size();
+    //     vector<vector<int>> dp(row, vector<int>(col, 0));
+        
+    //     for(int i=0; i<row; i++) {
+    //         for(int j=0; j<col; j++) {
+    //             if((obstacleGrid[0][0] != 1) && i==0 && j==0) dp[0][0] = 1;
+    //             else {
+    //                 int right=0, down=0;
+    //                 if(i > 0) right = dp[i-1][j];
+    //                 if(j > 0) down = dp[i][j-1];
+    //                 if(obstacleGrid[i][j] != 1) dp[i][j] = right + down;
+    //             }
+    //         }
+    //     }
+    //     return dp[row-1][col-1];
+    // }
+
+    // spaceOptimization
+    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) { 
         int row = obstacleGrid.size();
         int col = obstacleGrid[0].size();
-        vector<vector<int>> dp(row, vector<int>(col, 0));
-        
+        vector<int> dp(col, 0);
         for(int i=0; i<row; i++) {
+            vector<int> temp(col, 0);
             for(int j=0; j<col; j++) {
-                if((obstacleGrid[0][0] != 1) && i==0 && j==0) dp[0][0] = 1;
+                if((obstacleGrid[0][0] != 1) && i==0 && j==0) temp[j] = 1;
                 else {
-                    int right=0, down=0;
-                    if(i > 0) right = dp[i-1][j];
-                    if(j > 0) down = dp[i][j-1];
-                    if(obstacleGrid[i][j] != 1) dp[i][j] = right + down;
+                    int right = 0, down = 0;
+                    if(i > 0) right = dp[j];
+                    if(j > 0) down = temp[j-1];
+                    if(obstacleGrid[i][j] != 1) temp[j] = right + down;
                 }
             }
+            dp = temp;
         }
-        return dp[row-1][col-1];
+        return dp[col-1];
     }
 };
