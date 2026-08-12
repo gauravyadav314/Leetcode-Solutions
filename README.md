@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0135-candy](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -138,4 +140,5 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
