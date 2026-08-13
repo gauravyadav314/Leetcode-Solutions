@@ -14,19 +14,36 @@ public:
     //     return helper(triangle, 0, 0, dp);
     // }
 
-    // tabulation 
-    int minimumTotal(vector<vector<int>>& triangle) {
-        int r = triangle.size();
-        vector<vector<int>> dp(r, vector<int>(r, INT_MAX));
-        for(int j=0; j<r; j++) dp[r-1][j] = triangle[r-1][j];
+    // // tabulation 
+    // int minimumTotal(vector<vector<int>>& triangle) {
+    //     int r = triangle.size();
+    //     vector<vector<int>> dp(r, vector<int>(r, INT_MAX));
+    //     for(int j=0; j<r; j++) dp[r-1][j] = triangle[r-1][j];
             
-        for(int i=r-2; i>=0; i--) {
+    //     for(int i=r-2; i>=0; i--) {
+    //         for(int j=i; j>=0; j--) {
+    //             int down = dp[i+1][j];
+    //             int diagonal = dp[i+1][j+1];
+    //             dp[i][j] = triangle[i][j] + min(down, diagonal);
+    //         }
+    //     }
+    //     return dp[0][0];
+    // }
+
+    // spaceOptimzation
+    int minimumTotal(vector<vector<int>>& triangle) { 
+        int n=triangle.size();
+        vector<int> front(n, INT_MAX);
+        for(int i=0; i<n; i++) front[i] = triangle[n-1][i];
+        for(int i=n-2; i>=0; i--) {
+            vector<int> curr(n, INT_MAX);
             for(int j=i; j>=0; j--) {
-                int down = dp[i+1][j];
-                int diagonal = dp[i+1][j+1];
-                dp[i][j] = triangle[i][j] + min(down, diagonal);
+                int down = front[j];
+                int diagonal = front[j+1];
+                curr[j] = triangle[i][j] + min(down, diagonal);
             }
+            front = curr;
         }
-        return dp[0][0];
+        return front[0];
     }
 };
