@@ -19,32 +19,53 @@ public:
     // }
 
 // tabulation
+//     int change(int amount, vector<int>& coins) {
+//     int n=coins.size();
+//     vector<vector<long long>> dp(n, vector<long long>(amount+1, 0));
+
+//     for(int i=0; i<=amount; i++) {
+//         if(i%coins[0] == 0)
+//             dp[0][i] = 1;
+//     }
+
+//     for(int i=1; i<n; i++) {
+//         for(int a=0; a<=amount; a++) {
+
+//             long long notTake = dp[i-1][a];
+
+//             long long take = 0;
+
+//             if(coins[i] <= a)
+//                 take = dp[i][a-coins[i]];
+
+//             if(take > INT_MAX - notTake)
+//                 dp[i][a] = INT_MAX;
+//             else
+//                 dp[i][a] = take + notTake;
+//         }
+//     }
+
+//     return dp[n-1][amount];
+// }
+
+// spaceOptimization
     int change(int amount, vector<int>& coins) {
-    int n=coins.size();
-    vector<vector<long long>> dp(n, vector<long long>(amount+1, 0));
-
-    for(int i=0; i<=amount; i++) {
-        if(i%coins[0] == 0)
-            dp[0][i] = 1;
-    }
-
-    for(int i=1; i<n; i++) {
-        for(int a=0; a<=amount; a++) {
-
-            long long notTake = dp[i-1][a];
-
-            long long take = 0;
-
-            if(coins[i] <= a)
-                take = dp[i][a-coins[i]];
-
-            if(take > INT_MAX - notTake)
-                dp[i][a] = INT_MAX;
-            else
-                dp[i][a] = take + notTake;
+        int n = coins.size();
+        vector<long long> prev(amount+1, 0);
+        for(int i=0; i<=amount; i++) {
+            if(i%coins[0] == 0) prev[i] = 1;
         }
+        for(int i=1; i<n; i++) {
+            vector<long long> curr(amount+1, 0);
+            for(int t=0; t<=amount; t++) {
+                long long notTake = prev[t];
+                long long take = 0;
+                if(coins[i] <= t) take = curr[t-coins[i]];
+                if(take > INT_MAX-notTake) curr[t] = INT_MAX;
+                else curr[t] = take+notTake;
+            }
+            prev = curr;
+        }
+        return prev[amount];
     }
-
-    return dp[n-1][amount];
-}
 };
