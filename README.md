@@ -69,6 +69,7 @@
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -124,6 +125,7 @@
 | [0518-coin-change-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Game Theory
 |  |
@@ -212,4 +214,5 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
