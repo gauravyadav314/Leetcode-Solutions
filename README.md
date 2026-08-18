@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -121,6 +122,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Game Theory
 |  |
 | ------- |
