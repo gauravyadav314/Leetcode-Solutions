@@ -29,6 +29,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
