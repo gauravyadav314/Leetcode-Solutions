@@ -12,6 +12,7 @@
 | [0120-triangle](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -222,6 +223,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
