@@ -60,6 +60,7 @@
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Geometry
 |  |
 | ------- |
