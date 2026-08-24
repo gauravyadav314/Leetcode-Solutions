@@ -21,6 +21,7 @@
 | [0213-house-robber-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0275-h-index-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 ## Backtracking
@@ -233,6 +235,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -264,6 +267,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -282,4 +286,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
