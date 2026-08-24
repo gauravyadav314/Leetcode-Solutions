@@ -78,6 +78,7 @@
 | [0044-wildcard-matching](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -155,6 +156,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0397-integer-replacement](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
@@ -225,6 +228,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Knapsack Problem
