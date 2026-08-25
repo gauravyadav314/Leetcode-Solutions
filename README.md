@@ -113,6 +113,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1092-shortest-common-supersequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
