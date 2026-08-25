@@ -102,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -155,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -212,6 +214,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -316,4 +319,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
