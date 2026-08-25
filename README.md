@@ -109,6 +109,7 @@
 | [0044-wildcard-matching](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -225,6 +226,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
