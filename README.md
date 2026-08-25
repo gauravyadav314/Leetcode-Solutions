@@ -6,6 +6,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -219,6 +220,7 @@
 | [0005-longest-palindromic-substring](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
