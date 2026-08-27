@@ -76,6 +76,7 @@
 | [0062-unique-paths](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 | [0509-fibonacci-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -233,6 +235,7 @@
 | [0143-reorder-list](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
@@ -330,6 +333,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Longest Increasing Subsequence
 |  |
