@@ -98,6 +98,7 @@
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -117,6 +118,7 @@
 | [0443-string-compression](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1092-shortest-common-supersequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -131,6 +133,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -242,6 +245,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 ## Backtracking
 |  |
