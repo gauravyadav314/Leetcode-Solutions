@@ -374,4 +374,5 @@
 | ------- |
 | [0086-partition-list](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
