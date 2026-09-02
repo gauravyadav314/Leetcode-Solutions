@@ -65,6 +65,7 @@
 | [0016-3sum-closest](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -124,6 +125,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -145,6 +147,7 @@
 | [0073-set-matrix-zeroes](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
