@@ -34,37 +34,75 @@ public:
 
 
 // TABULATION 
+    // int maximumSum(vector<int>& arr) {
+    //     int n = arr.size();
+
+    //     int ans = -1e9;
+
+    //     vector<vector<int>> dp(n, vector<int>(2, INT_MIN));
+        
+    //     // base case
+    //     dp[0][0]=arr[0];
+    //     dp[0][1]=arr[0];
+    //     for (int i = 1; i < n; i++) {
+
+    //         // Deletion not used here
+    //         dp[i][0] = max(
+    //             arr[i],
+    //             arr[i] + dp[i - 1][0]
+    //         );
+
+    //         // Deletion used here
+    //         dp[i][1] = max({
+    //             arr[i],
+    //             arr[i] + dp[i - 1][1],
+    //             dp[i - 1][0]
+    //         });
+    //     }
+
+    //     for (int i = 0; i < arr.size(); i++) {
+    //         ans = max(ans, dp[i][0]);
+    //         ans = max(ans, dp[i][1]);
+    //     }
+
+    //     return ans;
+    // }
+
+// space optimization
     int maximumSum(vector<int>& arr) {
+
         int n = arr.size();
 
-        int ans = -1e9;
+        // Deletion NOT used
+        int prev0 = arr[0];
 
-        vector<vector<int>> dp(n, vector<int>(2, INT_MIN));
-        
-        // base case
-        dp[0][0]=arr[0];
-        dp[0][1]=arr[0];
+        // One deletion USED
+        int prev1 = arr[0];
+
+        int ans = max(prev0, prev1);
+
         for (int i = 1; i < n; i++) {
 
-            // Deletion not used here
-            dp[i][0] = max(
+            // Deletion NOT used here
+            int curr0 = max(
                 arr[i],
-                arr[i] + dp[i - 1][0]
+                arr[i] + prev0
             );
 
-            // Deletion used here
-            dp[i][1] = max({
+            // One deletion USED here
+            int curr1 = max({
                 arr[i],
-                arr[i] + dp[i - 1][1],
-                dp[i - 1][0]
+                arr[i] + prev1,
+                prev0          
             });
-        }
 
-        for (int i = 0; i < arr.size(); i++) {
-            ans = max(ans, dp[i][0]);
-            ans = max(ans, dp[i][1]);
+            prev0 = curr0;
+            prev1 = curr1;
+
+            ans = max(ans, max(prev0, prev1));
         }
 
         return ans;
     }
+
 };
