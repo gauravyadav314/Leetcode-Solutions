@@ -2,17 +2,21 @@ class Solution {
 public:
     bool uniformArray(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(), nums.end());
-        bool odd = false;
+        int fOdd = 1e9;
+        int fEven = 1e9;
         int even = 0;
-        bool ans = true;
+        int odd = 0;
         for(int& x : nums) {
-            if(x%2 == 0 && !odd) {
+            if(x%2 == 0) {
                 even++;
-                ans = false;
+                fEven = min(fEven, x);
             }
-            else odd = true;
+            else {
+                odd++;
+                fOdd = min(fOdd, x);
+            }
         }
-        return (even == n)? true : ans;
+        if(odd == n || even == n) return true;
+        return (fOdd < fEven);
     }
 };
