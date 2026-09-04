@@ -62,6 +62,7 @@
 | [3731-find-missing-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -370,6 +371,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0525-contiguous-array) |
+| [3903-smallest-stable-index-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
