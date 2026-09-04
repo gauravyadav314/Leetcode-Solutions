@@ -95,6 +95,7 @@
 | [0223-rectangle-area](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 | [0509-fibonacci-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1922-count-good-numbers](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -187,6 +188,7 @@
 | [0143-reorder-list](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
