@@ -28,7 +28,7 @@ public:
         for(char ch : s) {
             long long last = dp;
             dp = ((2* dp) + 1 - hash[ch-'a'] + mod)%mod;
-            hash[ch-'a'] = last + 1;
+            hash[ch-'a'] = (last + 1)%mod;
         }
         return dp;
     }
