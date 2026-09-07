@@ -148,6 +148,7 @@
 | [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -242,6 +243,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
