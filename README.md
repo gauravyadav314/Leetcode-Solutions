@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
