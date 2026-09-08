@@ -142,6 +142,7 @@
 | [0205-isomorphic-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0443-string-compression) |
@@ -173,6 +174,7 @@
 | [0205-isomorphic-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0525-contiguous-array) |
@@ -191,6 +193,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
