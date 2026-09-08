@@ -149,6 +149,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -247,6 +248,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -298,6 +300,7 @@
 | [0443-string-compression](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 ## Backtracking
