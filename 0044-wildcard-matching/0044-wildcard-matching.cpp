@@ -2,6 +2,7 @@ class Solution {
 public:
     bool helper(string& s, string& p, int i, int j, vector<vector<int>>& dp) {
         if(i < 0 && j < 0) return true;
+        if(j < 0 && i >= 0) return false;
 
         if(i < 0 && j >= 0) {
             for(int ind = 0; ind <= j; ind++)
@@ -9,7 +10,6 @@ public:
             return true;
         }
 
-        if(j < 0 && i >= 0) return false;
         
         if(dp[i][j] != -1) return dp[i][j];
 
