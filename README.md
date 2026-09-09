@@ -119,6 +119,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -150,6 +151,7 @@
 | [0299-bulls-and-cows](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -343,11 +345,13 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0402-remove-k-digits](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [2104-sum-of-subarray-ranges](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [2104-sum-of-subarray-ranges](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
