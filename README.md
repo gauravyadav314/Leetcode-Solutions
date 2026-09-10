@@ -58,6 +58,7 @@
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -89,6 +90,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -202,6 +204,7 @@
 | [0771-jewels-and-stones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
