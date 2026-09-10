@@ -53,6 +53,7 @@
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1046-last-stone-weight](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -105,6 +106,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
