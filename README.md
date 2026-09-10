@@ -474,4 +474,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
