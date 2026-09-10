@@ -51,6 +51,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
@@ -88,6 +89,7 @@
 | [0455-assign-cookies](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -102,6 +104,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -113,6 +116,7 @@
 | [0223-rectangle-area](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 | [0509-fibonacci-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1922-count-good-numbers](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -126,6 +130,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -481,6 +486,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -513,4 +519,9 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
