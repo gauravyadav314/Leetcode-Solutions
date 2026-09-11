@@ -5,7 +5,7 @@ public:
         unordered_set<int> st;
         for(int num : nums) {
             maxi = max(maxi, num);
-            st.insert(num);
+            if(num>0) st.insert(num);
         }
         for(int i=1; i<=maxi; i++) {
             if(!st.contains(i)) return i;
