@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0202-happy-number) |
