@@ -62,6 +62,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1898-maximum-number-of-removable-characters](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -191,6 +192,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1898-maximum-number-of-removable-characters](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1927-sum-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -349,6 +351,7 @@
 | [0658-find-k-closest-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
+| [1898-maximum-number-of-removable-characters](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -430,6 +433,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1898-maximum-number-of-removable-characters](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2187-minimum-time-to-complete-trips](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Ternary Search
 |  |
