@@ -63,6 +63,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1898-maximum-number-of-removable-characters](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -156,6 +157,7 @@
 | [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1927-sum-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
