@@ -123,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
