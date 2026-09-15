@@ -163,6 +163,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1927-sum-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -206,6 +207,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1927-sum-game](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -323,6 +325,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
 | ------- |
@@ -370,6 +373,7 @@
 | [0763-partition-labels](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1898-maximum-number-of-removable-characters](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
