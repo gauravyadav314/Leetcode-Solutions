@@ -307,6 +307,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -420,6 +421,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
