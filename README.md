@@ -182,6 +182,7 @@
 | [0079-word-search](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -222,6 +223,7 @@
 | [0049-group-anagrams](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -441,6 +443,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -629,4 +632,8 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
