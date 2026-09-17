@@ -447,6 +447,7 @@
 | [0130-surrounded-regions](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0785-is-graph-bipartite](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Complete Knapsack
@@ -563,6 +564,7 @@
 | [0130-surrounded-regions](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -620,6 +622,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -632,8 +635,17 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0127-word-ladder) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gauravyadav314/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
